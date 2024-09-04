@@ -1,9 +1,10 @@
 export default function Bio() {
   return (
     <p className="text-muted-foreground">
-      I&apos;m a full stack web developer with a passion for building modern,
-      responsive, and user-friendly applications. I have experience working with
-      a variety of technologies, including React, Node.js, and MongoDB.
+      I&apos;m a enthusiastic software engineer driven by creating exceptional
+      digital experiences. With a strong foundation in both technology and
+      business operations, I excel at bridging the gap between innovative ideas
+      and practical solutions.
     </p>
   );
 }
