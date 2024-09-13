@@ -30,7 +30,7 @@ const projects = [
   {
     title: "Fistbump - team management tool",
     description:
-      "Group project - August 2023: Tech - NextJS, Prisma, MongoDB, GraphQL.",
+      "Arol.Dev Bootcamp - Group project: Tech - NextJS, Prisma, MongoDB, GraphQL.",
     linkText: "Live",
     linkText2: "Github",
     linkHref: "https://github.com/hrvojevincek/fistbump",
