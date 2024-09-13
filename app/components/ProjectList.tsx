@@ -2,36 +2,49 @@ import ProjectItem from "./ProjectItem";
 
 const projects = [
   {
-    title: "AI Travel Planner",
-    description:
-      "AI Travel Planner - NextJS, NextAuth, Prisma, Express, Postgrsql, Docker, TailwindCSS",
+    title: "Slack Clone",
+    description: "Tech: NextJS, ShadCN, Jotai, NodeJS, Convex NoSql DB",
     linkText2: "Github",
     linkText: "Live",
-    linkGithub: "Github",
+    linkGithub: "https://github.com/hrvojevincek/slack-clone",
+    linkHref: "https://slack-clone-iota-three.vercel.app/",
+  },
+  {
+    title: "AI Travel Planner",
+    description:
+      "Tech- NextJS, NextAuth, Prisma, Express, Postgrsql, Docker, TailwindCSS",
+    linkText2: "Github",
+    linkText: "Live",
+    linkGithub: "https://github.com/hrvojevincek/AI-TravelPlan",
     linkHref: "https://ai-travel-plan.vercel.app/",
   },
   {
     title: "Event Platform",
     description:
-      "Event Platform - full-stack platform for managing events, featuring payment processing through Stripe.",
+      "Tech - full-stack platform for managing events, featuring payment processing through Stripe.",
     linkText: "Live",
-    linkGithub: "GitHub",
+    linkText2: "Github",
+    linkGithub: "https://github.com/hrvojevincek/event-platform",
     linkHref: "https://event-platform-beige-nu.vercel.app/",
   },
   {
     title: "Fistbump - team management tool",
     description:
-      "Group project - August 2023: NextJS, Prisma, MongoDB, GraphQL.",
-    linkText: "Github",
+      "Group project - August 2023: Tech - NextJS, Prisma, MongoDB, GraphQL.",
+    linkText: "Live",
     linkText2: "Github",
     linkHref: "https://github.com/hrvojevincek/fistbump",
+    linkGithub: "https://github.com/hrvojevincek/fistbump",
+    disabled: true,
   },
   {
     title: "Coffee Job Board",
-    description: "Simple crud job board for coffee shops built with React.",
+    description:
+      "Simple crud job board for coffee shops built with React, React Router, NextAuth, Node, Prisma, Postgres.",
     linkText: "Live",
     linkText2: "Github",
     linkHref: "https://coffee-career.vercel.app/",
+    linkGithub: "https://github.com/hrvojevincek/coffee-job-board",
   },
 ];
 
