@@ -1,17 +1,21 @@
 export default function Bio() {
   return (
     <p className="text-muted-foreground">
-      I&apos;m a software engineer driven by creating exceptional digital
-      experiences. With a strong foundation in both technology and business
-      operations, I excel at bridging the gap between innovative ideas and
-      practical solutions. <br />
-      My background as a coffee roaster operation lead instilled in me a deep
-      appreciation for efficiency and alignment with strategic goals. This
-      unique perspective allows me to quickly grasp project requirements and
-      deliver impactful results.
-      <br />
-      In my free time i love to read, play music or going on a roadtrip.
-      Currently reading Foundation series by Isaac Asimov.
+      I bring strong expertise in Python, JavaScript, and modern frameworks like
+      React and Next.js, which align with the technical demands of this role. My
+      experience spans building and optimizing full-stack applications,
+      implementing RESTful APIs, and working with CI/CD pipelines, all while
+      maintaining a customer-centric approach. I have hands-on experience with
+      AWS services and cloud-native architectures, consistently delivering
+      scalable and high-performing solutions. My work emphasizes automation,
+      clean architectures, and high-quality code, aligning with the software
+      craftsmanship mindset youre looking for. <br />
+      Additionally, I have a proven track record in enhancing user experiences
+      through performance optimization and UI design, and I am comfortable
+      working in multicultural teams. My continuous learning, problem-solving
+      skills, and ability to communicate ideas clearly make me a great fit for
+      this role. I’m passionate about contributing to teams that value
+      ownership, technical excellence, and collaboration.
     </p>
   );
 }

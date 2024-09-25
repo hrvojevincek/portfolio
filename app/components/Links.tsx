@@ -44,19 +44,8 @@ export default function Links() {
         <li>
           <a
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
-            rel="noopener noreferrer"
-            target="_blank"
-            href="https://hrvojevincek.github.io/resume/"
-          >
-            <ArrowIcon />
-            <p className="ml-2 h-7">CV</p>
-          </a>
-        </li>
-        <li>
-          <a
-            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             href="/Hrvoje_Vincek_CV.pdf"
-            download
+            download="Hrvoje_Vincek_CV.pdf"
           >
             <ArrowIcon />
             <p className="ml-2 h-7">Download CV</p>
