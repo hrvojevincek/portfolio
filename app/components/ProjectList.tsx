@@ -52,7 +52,7 @@ const projects = [
       "Tech- React, Webpack, SCSS, React Router, React Hooks, TMDB API",
     linkText2: "Github",
     linkText: "Live",
-    linkGithub: "https://github.com/hrvojevincek/movie-database-app",
+    linkGithub: "https://github.com/hrvojevincek/movie-app",
     linkHref: "https://movie-database-app-wheat.vercel.app/",
     disabled: true,
   },
