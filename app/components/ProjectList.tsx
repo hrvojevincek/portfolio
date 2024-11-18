@@ -46,6 +46,16 @@ const projects = [
     linkHref: "https://coffee-career.vercel.app/",
     linkGithub: "https://github.com/hrvojevincek/coffee-job-board",
   },
+  {
+    title: "Movie Database App",
+    description:
+      "Tech- React, Webpack, SCSS, React Router, React Hooks, TMDB API",
+    linkText2: "Github",
+    linkText: "Live",
+    linkGithub: "https://github.com/hrvojevincek/movie-database-app",
+    linkHref: "https://movie-database-app-wheat.vercel.app/",
+    disabled: true,
+  },
 ];
 
 export default function ProjectList() {
