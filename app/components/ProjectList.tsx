@@ -19,6 +19,16 @@ const projects = [
     linkHref: "https://ai-travel-plan.vercel.app/",
   },
   {
+    title: "Chat App w/ tRPC, Websocket, React, TailwindCSS, ",
+    description:
+      "Simple chat app with tRPC, Websocket, React, TailwindCSS, NextJS, NodeJS, Express, Postgres.",
+    linkText: "Live",
+    linkText2: "Github",
+    linkGithub: "https://github.com/hrvojevincek/chat-app-trpc-ws",
+    linkHref: "https://chat-app-wheat.vercel.app/",
+    disabled: true,
+  },
+  {
     title: "Event Platform",
     description:
       "Tech - full-stack platform for managing events, featuring payment processing through Stripe.",
@@ -29,8 +39,7 @@ const projects = [
   },
   {
     title: "Fistbump - team management tool",
-    description:
-      "Arol.Dev Bootcamp - Group project: Tech - NextJS, Prisma, MongoDB, GraphQL.",
+    description: "NextJS, Prisma, MongoDB, GraphQL.",
     linkText: "Live",
     linkText2: "Github",
     linkHref: "https://github.com/hrvojevincek/fistbump",
@@ -39,8 +48,7 @@ const projects = [
   },
   {
     title: "Coffee Job Board",
-    description:
-      "Simple crud job board for coffee shops built with React, React Router, NextAuth, Node, Prisma, Postgres.",
+    description: "React, React Router, NextAuth, Node, Prisma, Postgres.",
     linkText: "Live",
     linkText2: "Github",
     linkHref: "https://coffee-career.vercel.app/",
@@ -49,7 +57,7 @@ const projects = [
   {
     title: "Movie Database App",
     description:
-      "Tech- React, Webpack, SCSS, React Router, React Hooks, TMDB API",
+      "Javascript,React, Webpack, SCSS, React Router, React Hooks, TMDB API",
     linkText2: "Github",
     linkText: "Live",
     linkGithub: "https://github.com/hrvojevincek/movie-app",
