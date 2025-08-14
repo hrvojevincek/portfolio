@@ -51,7 +51,7 @@ const projects = [
     description: "React, React Router, NextAuth, Node, Prisma, Postgres.",
     linkText: "Live",
     linkText2: "Github",
-    linkHref: "https://coffee-career.vercel.app/",
+    linkHref: "https://coffee-career-accelerator-client.vercel.app/jobs",
     linkGithub: "https://github.com/hrvojevincek/coffee-job-board",
   },
   {
